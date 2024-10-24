@@ -1,0 +1,4 @@
+Add your feature widgets under this directory
+Naming convention is:
+    CellDummy     => for list item
+    DummyWidget  => for any other widgets

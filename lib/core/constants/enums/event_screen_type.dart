@@ -1,0 +1,4 @@
+enum EventScreenType {
+  add,
+  edit,
+}

@@ -1,0 +1,4 @@
+enum VerifyBy {
+  sms,
+  email,
+}

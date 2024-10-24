@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "944110877677",
+    "firebase_url": "https://hauui-staging-default-rtdb.firebaseio.com",
+    "project_id": "hauui-staging",
+    "storage_bucket": "hauui-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944110877677:android:e29661015f3f3b3006c5e4",
+        "android_client_info": {
+          "package_name": "com.inova.hauuiStaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944110877677-3u82ah852naecuslvqvd3r71vf8hrh4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFhm-JJyqZt-U6Pb_aFgkaUhKuSbuoYcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944110877677-3u82ah852naecuslvqvd3r71vf8hrh4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944110877677-6ukuljead820vug1nfn46krnkq092o3s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inovaeg.hauui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944110877677:android:c428aef4ce74a59106c5e4",
+        "android_client_info": {
+          "package_name": "com.inovaeg.hauui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944110877677-3u82ah852naecuslvqvd3r71vf8hrh4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFhm-JJyqZt-U6Pb_aFgkaUhKuSbuoYcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944110877677-3u82ah852naecuslvqvd3r71vf8hrh4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944110877677-6ukuljead820vug1nfn46krnkq092o3s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inovaeg.hauui"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

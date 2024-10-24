@@ -1,0 +1,4 @@
+enum ProfileMode {
+  me,
+  user,
+}

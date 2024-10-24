@@ -1,0 +1,4 @@
+enum ChangeCityMode {
+  listEvents,
+  createEvent,
+}
